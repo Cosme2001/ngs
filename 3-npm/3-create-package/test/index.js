@@ -1,4 +1,4 @@
-const print = require('frame-print');
+const print = require('cosme990-frame-print');
 
 print('Hello NPM!');
 
